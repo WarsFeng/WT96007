@@ -1,0 +1,8 @@
+$(call inherit-product, device/xiaomi/WT96007/device.mk)
+#
+# Overrides
+PRODUCT_NAME := WT96007
+PRODUCT_DEVICE := omni_WT96007
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MANUFACTURER := XIAOMI
+PRODUCT_MODEL := 2014501
